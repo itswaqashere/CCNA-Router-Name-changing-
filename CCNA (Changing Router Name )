@@ -1,0 +1,11 @@
+Here i will tell you how can you change router name from Router to R1 R2 or anything you want!
+So first you need to open the router by clicking on it (in packet traser) then here is the code:
+Router>
+Router>en
+Router#conf t
+Enter configuration command, one line per
+Router(config)# hostname R1
+R1(config)#
+
+In this you see that i changed the name from Router to R1 by using this simple command 
+This operation of code is held inside the router Command line interface in packet traser
